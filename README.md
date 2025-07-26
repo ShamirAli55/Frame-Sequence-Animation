@@ -44,7 +44,7 @@ Frame-Sequence-Animation/
 ## 🛠️ Tools & Resources
 
 - 🎥 **Frame Extraction Tool:**  
-  Used the frame extraction utility shared in the [Sheriyans Coding School](https://www.youtube.com/channel/UCc7gpqMnnOSbU_F2-5MVVZw) video to convert a video into high-resolution image sequences.
+  Used the frame extraction utility shared in the [Sheriyans Coding School](https://youtu.be/6c2m0RjwRPY?feature=shared) video to convert a video into high-resolution image sequences.
 
 - 📚 **Inspired By:**  
   Tutorials from Sheriyans Coding School (YouTube) that guide through creating smooth scroll-based animations with canvas and GSAP.
@@ -67,8 +67,8 @@ Frame-Sequence-Animation/
 ## 💡 Notes
 
 * Ensure all frames (`frame_0000.jpeg` to `frame_0382.jpeg`) are inside the `Frames/` directory.
-* For local development, use a live server (e.g., VSCode Live Server or Node/Express) to avoid CORS/image loading issues.
-
+* For local development, use a live server (e.g., VSCode Live Server or Node/Express) to avoid
+  CORS/image loading issues.
 ---
 
 ## 📬 Credits
