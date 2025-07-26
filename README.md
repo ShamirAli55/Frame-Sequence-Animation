@@ -4,7 +4,7 @@
 This project showcases a smooth, scroll-driven frame-by-frame animation using HTML5 `<canvas>`, GSAP's `ScrollTrigger`, and Tailwind CSS.
 
 🔗 **Live Demo:**  
-[https://shamirali55.github.io/Frame-Sequence-Animation/](https://shamirali55.github.io/Frame-Sequence-Animation/)
+[https://shamirali55.github.io/Frame-Sequence-Animation/](https://shamirali55.github.io/Frame-Sequence-Animation/Files/index.html)
 
 ---
 
@@ -13,6 +13,7 @@ This project showcases a smooth, scroll-driven frame-by-frame animation using HT
 ```
 
 Frame-Sequence-Animation/
+├── Files/   
 ├── index.html         # Main HTML file with canvas setup and sticky scroll section
 ├── script.js          # JS file for frame loading, canvas drawing, and ScrollTrigger animation
 ├── Frames/            # Folder containing all frame images (frame\_0000.jpeg to frame\_0382.jpeg)
