@@ -44,7 +44,7 @@ Frame-Sequence-Animation/
 ## 🛠️ Tools & Resources
 
 - 🎥 **Frame Extraction Tool:**  
-  Used the frame extraction utility shared in the [Sheriyans Coding School](https://youtu.be/6c2m0RjwRPY?feature=shared) video to convert a video into high-resolution image sequences.
+  Used the frame extraction utility shared in the [Sheriyans Coding School](https://www.youtube.com/watch?v=6c2m0RjwRPY) video to convert a video into high-resolution image sequences.
 
 - 📚 **Inspired By:**  
   Tutorials from Sheriyans Coding School (YouTube) that guide through creating smooth scroll-based animations with canvas and GSAP.
